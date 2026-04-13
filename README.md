@@ -53,3 +53,6 @@ res_idtaxa_genus.rds
 Metaanalysis/Monteleone_2021/:
 Clinical data anorexia samples.xlsx
 res_idtaxa_genus.rds
+
+
+Remark: Due to updates to R after the manuscript was finalized, the Rmd file may produce slightly different numerical results than those reported in the paper (differences may occur in the second decimal place).
